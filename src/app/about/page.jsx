@@ -32,6 +32,7 @@ const About = () => {
           <p className={styles.desc}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum unde iure sed culpa, recusandae nobis reprehenderit exercitationem, cupiditate quae saepe veniam, molestias soluta! Excepturi delectus perspiciatis quis recusandae! Beatae, possimus.
           </p>
+          <br />
           <Button url="/contact" text="Contact" />
         </div>
       </div>
