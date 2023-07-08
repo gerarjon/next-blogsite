@@ -3,6 +3,11 @@ import React from 'react'
 import styles from './page.module.css'
 import Button from '@/components/button/Button'
 
+export const metadata = {
+  title: 'Contact Information',
+  description: 'This is the contact page',
+}
+
 const Contact = () => {
   return (
     <div className={styles.container}>
